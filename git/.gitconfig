@@ -1,0 +1,14 @@
+[color]
+    status = auto
+    diff = auto
+    branch = auto
+    interactive = auto
+[alias]
+    st = status
+    ci = commit
+    df = diff
+    co = checkout
+    br = branch
+[core]
+    excludesfile = ~/.gitignore_global
+    quotepath = false

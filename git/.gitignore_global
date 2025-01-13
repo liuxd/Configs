@@ -1,0 +1,16 @@
+*.swp
+.DS_Store
+*~
+nbproject/
+.svn
+.idea/
+.tags
+.tags_sorted_by_file
+composer.lock
+package-lock.json
+Icon?
+node_modules/
+.obsidian/workspace.json
+.fleet
+.graphql-generated
+_graphql
