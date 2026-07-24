@@ -78,3 +78,7 @@ set noic
 
 "设置文件格式
 set fileformats=unix
+
+let &t_SI = "\e[6 q"   " insert mode → steady bar (line)
+let &t_EI = "\e[2 q"   " normal mode → steady block
+let &t_SR = "\e[4 q"   " replace mode → underline
